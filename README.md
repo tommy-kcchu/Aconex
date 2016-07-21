@@ -23,12 +23,12 @@ Build using ant:
 
 # How to execute on command prompt#
     
-Running without phone number file, the program will prompt user to get the phone number from STDIN where <DIRECTORY_PATH> is your dictionary path:
+Running without phone number file, the program will prompt user to get the phone number from STDIN where DIRECTORY_PATH is your dictionary path:
 
     java -jar AconexPhoneChallenge.jar -d <DIRECTORY_PATH>
 
 Running with a dictionary and phone number file, you can execute the following command 
-where <DIRECTORY_PATH> is your dictionary path and <PHONE_NUMBER_PATH> is the location of your phone number list 
+where DIRECTORY_PATH is your dictionary path and PHONE_NUMBER_PATH is the location of your phone number list 
 
     java -jar AconexPhoneChallenge.jar -d <DIRECTORY_PATH> <PHONE_NUMBER_PATH>
  
