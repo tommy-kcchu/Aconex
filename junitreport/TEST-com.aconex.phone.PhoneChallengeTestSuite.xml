@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="B5070-Lenovo" name="com.aconex.phone.PhoneChallengeTestSuite" skipped="0" tests="38" time="0.282" timestamp="2016-07-21T08:49:20">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="lib" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="B5070-Lenovo" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_92\lib\resources.jar;C:\Program Files\Java\jre1.8.0_92\lib\rt.jar;C:\Program Files\Java\jre1.8.0_92\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_92\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_92\lib\jce.jar;C:\Program Files\Java\jre1.8.0_92\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_92\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_92\classes" />
+    <property name="env.COMPUTERNAME" value="B5070-LENOVO" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="jar.dir" value="dist" />
+    <property name="java.runtime.version" value="1.8.0_92-b14" />
+    <property name="env.HOMEPATH" value="\Users\User" />
+    <property name="user.name" value="User" />
+    <property name="build.dir" value="build" />
+    <property name="user.language" value="en" />
+    <property name="env.windows_tracing_flags" value="3" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_92\bin" />
+    <property name="ant.project.default-target" value="clean-build" />
+    <property name="ant.project.name" value="AconexPhoneChallenge" />
+    <property name="java.version" value="1.8.0_92" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel" />
+    <property name="version" value="1.0" />
+    <property name="user.timezone" value="" />
+    <property name="env.asl.log" value="Destination=file" />
+    <property name="env.TEMP" value="C:\Users\User\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_92\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="build/classes" />
+    <property name="java.class.version" value="52.0" />
+    <property name="ant.file.AconexPhoneChallenge" value="C:\Users\User\Documents\Development\Projects\Aconex\Aconex\build.xml" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_92" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\User\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\User\Documents\Development\Projects\Aconex\Aconex\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env.configsetroot" value="C:\WINDOWS\ConfigSetRoot" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.92-b14" />
+    <property name="report.dir" value="junitreport" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\User" />
+    <property name="ant.library.dir" value="C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Progra~1\Java\jdk1.8.0_92" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\User\AppData\Local\Temp" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="ant.file.type.AconexPhoneChallenge" value="file" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/" />
+    <property name="main.class" value="com.aconex.phone.PhoneChallenge" />
+    <property name="user.home" value="C:\Users\User" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="test.dir" value="C:\Users\User\Documents\Development\Projects\Aconex\Aconex\test" />
+    <property name="java.library.path" value="C:\Users\User\Documents\Development\Software\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_92/bin/server;C:/Program Files/Java/jre1.8.0_92/bin;C:/Program Files/Java/jre1.8.0_92/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Lenovo\Password Manager\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 &amp; MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 &amp; MySQL Utilities 1.5\Doctrine extensions for PHP\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Progra~1\Java\jdk1.8.0_92\bin;C:\Ruby23-x64\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\Documents\Development\Software\eclipse;;.;C:\Users\User\Documents\Development\Software\eclipse\configuration\org.eclipse.osgi\764\0\.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.class.path" value="C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-antlr.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bcel.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bsf.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-log4j.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-oro.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-regexp.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-resolver.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-xalan2.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-logging.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-net.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jai.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-javamail.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jdepend.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jmf.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jsch.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-netrexx.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-swing.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-testutil.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;C:\Users\User\Documents\Development\Software\eclipse\configuration\org.eclipse.osgi\81\0\.cp\lib\antdebug.jar;C:\Users\User\Documents\Development\Software\eclipse\configuration\org.eclipse.osgi\81\0\.cp\lib\remote.jar;C:\Users\User\Documents\Development\Software\eclipse\configuration\org.eclipse.osgi\82\0\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.8.0_92\lib\tools.jar;C:\Users\User\Documents\Development\Software\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.105.0.v20160525-1431.jar" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1469090956523 -Declipse.connect.port=50943 -Declipse.pdebuild.home=/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./ -Declipse.pdebuild.scripts=/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/ -Declipse.pdebuild.templates=/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/ -Dant.home=C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\User\Documents\Development\Projects\Aconex\Aconex\build.xml clean-build-junit" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.LOGONSERVER" value="\\B5070-LENOVO" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="env.PROCESSOR_REVISION" value="4501" />
+    <property name="eclipse.pdebuild.home" value="/C:/Users/User/Documents/Development/Software/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./" />
+    <property name="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_92\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="env.Grande" value="C:\Program Files (x86)\Fuji Xerox\DocuPrint SSW2\SimpleMonitor for AP" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\User\AppData\Local" />
+    <property name="user.dir" value="C:\Users\User\Documents\Development\Projects\Aconex\Aconex" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_92/bin/server;C:/Program Files/Java/jre1.8.0_92/bin;C:/Program Files/Java/jre1.8.0_92/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Lenovo\Password Manager\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 &amp; MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 &amp; MySQL Utilities 1.5\Doctrine extensions for PHP\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Progra~1\Java\jdk1.8.0_92\bin;C:\Ruby23-x64\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\Documents\Development\Software\eclipse;" />
+    <property name="env.JRE_HOME" value="C:\Progra~1\Java\jre1.8.0_92" />
+    <property name="basedir" value="C:\Users\User\Documents\Development\Projects\Aconex\Aconex" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\User\Documents\Development\Software\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="env.USERNAME" value="User" />
+    <property name="env.ESET_OPTIONS" value="                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               " />
+    <property name="source" value="1.8" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.COMMPath" value="C:\Program Files\Lenovo\Communications Utility" />
+    <property name="env.USERDOMAIN" value="B5070-Lenovo" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.invoked-targets" value="clean-build-junit" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsNumberNull" time="0.02" />
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsNotDigit" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsDigitContainedSpace" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsNumberEmpty" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsDigitContainedSpecialChar" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.validation.InputValidatorTest" name="testIsDigit" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithFilePath" time="0.003" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testDeterminPhoneInputWithOptionArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithoutArgs" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testDeterminPhoneInputWithoutArgsValue" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithAllArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithoutArgsValue" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithOptionArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testDeterminPhoneInputWithoutArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testCmdWithOptionAndDirArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.ParameterUtilsTest" name="testDeterminPhoneInputWithOptionAndDirArgs" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testDictionaryReaderFilteredUpperWords" time="0.167" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testPhoneFileNotFound" time="0.003" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testDictionaryFileFound" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testPhoneFileFound" time="0.003" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testDictionaryPathEmpty" time="0.0" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testRetrievePhoneListFromFile" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testDictionaryFileNotFound" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.utils.FileUtilsTest" name="testPhonePathEmpty" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.processor.CmdLineProcessorTest" name="testPhoneNumberWithSpecialChar" time="0.004" />
+  <testcase classname="com.aconex.phone.challenge.processor.CmdLineProcessorTest" name="testPhoneNumberStartWithLetter" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.CmdLineProcessorTest" name="testValidPhoneNumberWithSpace" time="0.003" />
+  <testcase classname="com.aconex.phone.challenge.processor.CmdLineProcessorTest" name="testValidPhoneNumber" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.CmdLineProcessorTest" name="testPhoneNumberWithoutMatch" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.processor.FileProcessorTest" name="testPhoneNumberWithSpecialChar" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.FileProcessorTest" name="testPhoneNumberStartWithLetter" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.FileProcessorTest" name="testValidPhoneNumberWithSpace" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.FileProcessorTest" name="testValidPhoneNumber" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.processor.FileProcessorTest" name="testPhoneNumberWithoutMatch" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.tdd.PhoneNumberConversionTest" name="testInvalidPhoneNumberConversion2" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.tdd.PhoneNumberConversionTest" name="testInvalidPhoneNumberConversion3" time="0.001" />
+  <testcase classname="com.aconex.phone.challenge.tdd.PhoneNumberConversionTest" name="testInvalidPhoneNumberConversion" time="0.002" />
+  <testcase classname="com.aconex.phone.challenge.tdd.PhoneNumberConversionTest" name="testPhoneNumberConversion" time="0.001" />
+  <system-out><![CDATA[Running without phone number file, the program will prompt user to get the phone number from STDIN:
+
+USAGE: java -jar AconexPhoneChallenge.jar  -d <<DIRECTORY_PATH>>
+
+Running with a dictionary and phone number file, you can execute the following command 
+where <<DIRECTORY_PATH>> is your dictionary path and <<PHONE_NUMBER_PATH>> is the location of your phone number list 
+
+USAGE: java -jar AconexPhoneChallenge.jar  -d <<DIRECTORY_PATH>> <<PHONE_NUMBER_PATH>>
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
