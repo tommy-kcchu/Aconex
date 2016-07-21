@@ -32,7 +32,7 @@ the location of your phone number list
 
     java -jar AconexPhoneChallenge.jar -d <<DIRECTORY_PATH>> <<PHONE_NUMBER_PATH>>
  
-# Junit Test# 
+# Junit Test # 
 
 Junit test cases are placed in test directory. It covers the following:
 
